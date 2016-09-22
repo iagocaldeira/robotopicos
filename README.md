@@ -10,4 +10,5 @@ Aplicativo android para controle de um robo articulado via bluetooth
 | Ombro       | 11   | 50  | 110  |
 | Cintura     | 3    | 10  | 110  |
 
-    
+Baixar e instalar o Android Studio
+https://developer.android.com/studio/index.html?hl=pt-br
